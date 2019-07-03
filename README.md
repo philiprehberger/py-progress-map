@@ -1,5 +1,9 @@
 # philiprehberger-progress-map
 
+[![Tests](https://github.com/philiprehberger/py-progress-map/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/py-progress-map/actions/workflows/publish.yml)
+[![PyPI version](https://img.shields.io/pypi/v/philiprehberger-progress-map.svg)](https://pypi.org/project/philiprehberger-progress-map/)
+[![License](https://img.shields.io/github/license/philiprehberger/py-progress-map)](LICENSE)
+
 Parallel map with a built-in terminal progress bar.
 
 ## Install
