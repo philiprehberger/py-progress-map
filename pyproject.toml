@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "philiprehberger-progress-map"
-version = "0.1.0"
+version = "0.1.1"
 description = "Parallel map with a built-in terminal progress bar"
 readme = "README.md"
 license = "MIT"
