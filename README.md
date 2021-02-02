@@ -50,6 +50,14 @@ results = pmap(process, items, label="Processing", show_progress=True)
 
 **Returns:** `list[R]` — Results in the same order as the input items.
 
+
+## Development
+
+```bash
+pip install -e .
+python -m pytest tests/ -v
+```
+
 ## License
 
 MIT
