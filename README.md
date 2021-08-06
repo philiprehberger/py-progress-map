@@ -6,7 +6,7 @@
 
 Parallel map with a built-in terminal progress bar.
 
-## Install
+## Installation
 
 ```bash
 pip install philiprehberger-progress-map
