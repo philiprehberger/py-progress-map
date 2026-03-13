@@ -1,0 +1,8 @@
+# Changelog
+
+## 0.1.0 (2026-03-13)
+
+- Initial release
+- `pmap()` for parallel map with progress bar
+- Thread and process pool support
+- Configurable worker count and progress display
