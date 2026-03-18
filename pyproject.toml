@@ -24,9 +24,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/philiprehberger/py-progress-map"
+Homepage = "https://github.com/philiprehberger/py-progress-map#readme"
 Repository = "https://github.com/philiprehberger/py-progress-map"
 Issues = "https://github.com/philiprehberger/py-progress-map/issues"
+Changelog = "https://github.com/philiprehberger/py-progress-map/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/philiprehberger_progress_map"]
